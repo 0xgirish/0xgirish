@@ -1,11 +1,11 @@
 ## Hello. I'm Girish
-- 🧱 I’m currently building :)
+- 🧱 I’m currently building at [Zomato](https://www.zomato.com/) :)
 - 💬 Ask me about vim, go or universe 😛️
 - 📫 How to reach me: hey@0xgirish.in
 
 ### Favourite
-- ✍️ Editor - [vscode](https://code.visualstudio.com/), [helix](https://helix-editor.com/)
-- 💻️ Language - [go](https://golang.org)
+- ✍️ Editor -  [kakoune](http://kakoune.org/), [vscode](https://code.visualstudio.com/)
+- 💻️ Language - [go](https://go.dev/)
 - 👨‍💻️ Terminal - [iterm](https://iterm2.com/)
 - 🍿 Anime - [Naruto](https://en.wikipedia.org/wiki/Naruto)
 
