@@ -1,6 +1,6 @@
 **# Hello. I'm Girish**
 - 🧱 I like to build things :)
-- 💬 Ask me about vim, go or universe 😄
+- 💬 Ask me about kakoune, go or universe 😄
 - 📫 How to reach me: hey@0xgirish.in
 
 \## Favourite
